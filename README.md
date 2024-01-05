@@ -1,1 +1,1 @@
-Official Github page of v2cast.com
+Official Github page of V2cast.com
